@@ -4,7 +4,16 @@
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Making the best out of the opportunities you fall upon is a skill known to many but mastered by none. 
+Reflecting upon my journey I have been honing this skill throughout my career and ultimately found that I want to make an impact in the Healthcare space and work at the intersection of Technology and Business. 
+
+My professional journey began when I started to work as an Associate Software Engineer in the US healthcare space at Carelon Global Solutions. I primarily focused on the healthcare procedure preauthorization process improvement. Making accessing healthcare easy and less time-consuming for patients. I worked extensively with various types of healthcare data and technologies to provide the best support for this objective. 
+
+As a next step to further improve my understanding of the processes and policies revolving around the Healthcare industry, I am pursuing a Master's in Health Care Analytics and Information Technology (MSHCA) at Carnegie Mellon University - Heinz College. My passion lies in leveraging business strategy, technology, and data to drive improvements in healthcare systems. I want to improve patient outcomes and optimize healthcare processes by leveraging my business acumen, technical skills, and analytical expertise to deliver innovative solutions.
+
+Digressing a little from my professional pursuits, I also enjoy reading and journaling. I find it calming and is my go-to activity to relax and gain perspective. 
+
+If you're interested in healthcare transformation or in discussions involving innovative approaches to improve healthcare systems, I’d love to connect! Whether it’s sharing insights on healthcare technology or simply recommending a great book for me to muse upon. I’m always open to engaging in meaningful conversations. Please feel free to reach out, I’d be excited to explore ideas together!
 
 # What I hope to learn
 All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
