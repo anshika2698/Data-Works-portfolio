@@ -17,7 +17,7 @@ With my deep interest in healthcare and technology, I aspire to work at the inte
 
 Titles matter less to me than the kind of work I get to do. What excites me is solving real problems—using my mix of technical skills, data fluency, and business understanding to design solutions that make a tangible difference while keeping stakeholder needs and practical challenges in mind.
 
-With this course, I wish to gain: 
+With this course, I wish to learn/gain: 
 
 - A toolkit that helps me leverage data to my advantage and make stakeholder involvement easy, this would be a key component in the kind of roles that I am targeting.
 - It will teach me how to frame analytical findings within a strategic context, helping stakeholders see not just the numbers, but the implications and opportunities behind them.
