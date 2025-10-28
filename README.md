@@ -1,10 +1,10 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+Hi there! My name is Anshika, and this is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.
 
 # About me
-My name is Anshika, and I believe making the best out of the opportunities you fall upon is a skill known to many but mastered by none. 
+I believe making the best out of the opportunities you fall upon is a skill known to many but mastered by none. 
 Reflecting upon my journey, I have been honing this skill throughout my career and ultimately found that I want to make an impact in the Healthcare space and work at the intersection of Technology and Business. 
 
 My professional journey began when I started to work as an Associate Software Engineer in the US healthcare space at Carelon Global Solutions. I primarily focused on the healthcare procedure preauthorization process improvement. Making accessing healthcare easy and less time-consuming for patients. I worked extensively with various types of healthcare data and technologies to provide the best support for this objective. 
@@ -30,7 +30,7 @@ or...
 
 # Portfolio
 
-# Examples
+## In-Class Warm-Up Activities
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
