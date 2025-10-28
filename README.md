@@ -4,8 +4,8 @@
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Making the best out of the opportunities you fall upon is a skill known to many but mastered by none. 
-Reflecting upon my journey I have been honing this skill throughout my career and ultimately found that I want to make an impact in the Healthcare space and work at the intersection of Technology and Business. 
+My name is Anshika, and I believe making the best out of the opportunities you fall upon is a skill known to many but mastered by none. 
+Reflecting upon my journey, I have been honing this skill throughout my career and ultimately found that I want to make an impact in the Healthcare space and work at the intersection of Technology and Business. 
 
 My professional journey began when I started to work as an Associate Software Engineer in the US healthcare space at Carelon Global Solutions. I primarily focused on the healthcare procedure preauthorization process improvement. Making accessing healthcare easy and less time-consuming for patients. I worked extensively with various types of healthcare data and technologies to provide the best support for this objective. 
 
