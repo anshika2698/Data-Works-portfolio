@@ -1,8 +1,5 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Portfolio
-Hi there! My name is Anshika, and this is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.
-
 # About me
 I believe making the best out of the opportunities you fall upon is a skill known to many but mastered by none. 
 Reflecting upon my journey, I have been honing this skill throughout my career and ultimately found that I want to make an impact in the Healthcare space and work at the intersection of Technology and Business. 
@@ -33,10 +30,25 @@ or...
 ## In-Class Warm-Up Activities
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+## Assignment Week 1
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
+## Assignment Week 2
+For this assignment, make sure you set up and link to a new page. This page is linking to a new Markdown document called `critique-by-design.md`.  
+
+## Assignment Week 3
+For this assignment, make sure you set up and link to a new page. This page is linking to a new Markdown document called `critique-by-design.md`.  
+
+## Assignment Week 4
+For this assignment, make sure you set up and link to a new page. This page is linking to a new Markdown document called `critique-by-design.md`.  
+
+## Assignment Week 5
+For this assignment, make sure you set up and link to a new page. This page is linking to a new Markdown document called `critique-by-design.md`.  
+
+## Assignment Week 6
+For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+
+## Assignment Week 7
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
 ## Final project
