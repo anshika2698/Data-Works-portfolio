@@ -26,7 +26,8 @@ With this course, I wish to learn/gain:
 # Portfolio
 
 ## In-Class Warm-Up Activities
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
+This section includes stuff from in-class demos or your other activities
+
 ### Date : Oct 21, 2025
 ### Date : Oct 28, 2025
 ### Date : Oct 30, 2025
