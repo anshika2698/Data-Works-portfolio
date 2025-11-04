@@ -36,7 +36,6 @@ This section includes stuff from in-class demos or your other activities
   var scriptElement = document.createElement('script');                    
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
-
 </script>
 
 ## Government Debt Visualization for different countries
