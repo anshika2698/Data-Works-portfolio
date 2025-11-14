@@ -26,33 +26,17 @@ Despite these challenges, some elements work well. The clear ordering from large
 
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
-
-Questions to ask (modify these for your own interviews): 
-
-- Can you tell me what you think this is?
-
-- Can you describe to me what this is telling you?
-
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
-
-Results: 
-
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
-
 | Question | Interview 1 | Interview 2 | Interview 3 |
 |----------|-------------|-------------|-------------|
 | What pops out in this visualization?  | The large share of Christians among global migrants stands out, but the visual is cluttered with colors and categories that compete for attention| The contrast between religiously affiliated and unaffiliated groups is noticeable, though the grey for unaffiliated could be stronger| The sheer volume of categories and colors pops out, but it’s visually overwhelming and the main message is not immediately clear
-| What did you like?  | They liked that Christians were clearly the largest group it’s an interesting insight and very easy to interpret because the pie chart makes it so obvious| Simple pie chart made the proportions easier to understand than a complex bar graph | Appreciated the simplicity of the pie chart while still providing a detailed breakdown of multiple religions; it felt informative without being overwhelming
+| What did you like?  | They liked that Christians were clearly the largest group. It’s an interesting insight and very easy to interpret because the pie chart makes it so obvious| Simple pie chart made the proportions easier to understand than a complex bar graph | Appreciated the simplicity of the pie chart while still providing a detailed breakdown of multiple religions; it felt informative without being overwhelming
 | What should I work upon as a priority?  | Simplify the color scheme and reduce contrast | Develop a clear story and an informative title that guides the audience | Group smaller categories so the key story stands out.
 
 Synthesis: 
 
+Looking back at the feedback from the interviewers, a clear pattern started to emerge. Everyone seemed to agree that the pie chart itself is a strength—it’s simple, easy to interpret, and immediately shows that Christians make up the largest share of global migrants. I liked hearing that the simplicity helped people grasp the proportions quickly, and that the chart still manages to include a detailed breakdown of multiple religions without feeling overwhelming. Which was a concern of mine, have I simplified it too much? But I think I hit just the spot. At the same time, it was clear that the visual felt cluttered due to too many colors and categories competing for attention.
+
+What really stood out to me from this feedback is how much story was missing in the visualization. I realized that a chart can be technically correct and still lose its audience if the story isn’t clear. Things like simplifying colors, grouping smaller categories, and using neutral tones for less central groups would go a long way toward clarity. I also saw the importance of an informative title and a headline that guides the viewer toward the insight. Moving forward, I want my redesign to keep the strengths of the pie chart—its simplicity and proportional clarity but make the story around it more compelling and understandable. It feels like a balance between being visually appealing and narratively clear, and that’s what I want to achieve in the final version.
 _What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
 
 ## Step five: build the solution
