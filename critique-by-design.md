@@ -14,7 +14,7 @@ What makes this information particularly compelling is the way it challenges som
 
 ## Critique
 
-Overall, the visualization presents interesting and insightful information, but it feels more complicated than necessary. The title highlights one key story—Christians as the largest migrant group—yet the chart contains many other narratives that aren’t aligned with that focus. This mismatch makes the purpose of the visualization feel unclear. Additionally, the notes section is overly long, which distracts from the main message and visually overwhelms the design.
+Overall, the visualization presents interesting and insightful information, but it feels more complicated than necessary. The title highlights one key story—Christians as the largest migrant group—yet the chart contains many other narratives that aren’t aligned with that focus. This mismatch makes the purpose of the visualization feel unclear. Moreover, the notes section is q1uite long, which distracts from the main message and visually overwhelms the design.
 
 Several structural and layout issues also weaken the clarity of the graphic. The source is placed at the bottom and blends into the notes, when it would be more effective and transparent if positioned near the top. If the emphasis is truly on Christians, the remaining bars could be visually de-emphasized, such as by using a grey color palette for the other groups. As it stands, the colors appear arbitrary rather than meaningful, reducing the sense of intentionality in the design.
 
@@ -48,8 +48,8 @@ _Don't identify or share personally identifiable information (PII) about the peo
 | Question | Interview 1 | Interview 2 | Interview 3 |
 |----------|-------------|-------------|-------------|
 | What pops out in this visualization?  | The large share of Christians among global migrants stands out, but the visual is cluttered with colors and categories that compete for attention| The contrast between religiously affiliated and unaffiliated groups is noticeable, though the grey for unaffiliated could be stronger| The sheer volume of categories and colors pops out, but it’s visually overwhelming and the main message is not immediately clear
-| What did you like?         |             |             |
-| What shoudl I work upon as a priority?         |             |             |
+| What did you like?  | They liked that Christians were clearly the largest group it’s an interesting insight and very easy to interpret because the pie chart makes it so obvious| Simple pie chart made the proportions easier to understand than a complex bar graph | Appreciated the simplicity of the pie chart while still providing a detailed breakdown of multiple religions; it felt informative without being overwhelming
+| What shoudl I work upon as a priority?  | Simplify the color scheme and reduce contrast | Develop a clear story and an informative title that guides the audience | Group smaller categories so the key story stands out.
 
 Synthesis: 
 
