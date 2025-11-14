@@ -12,8 +12,13 @@ I chose this data because the topic of global migration by religious affiliation
 
 What makes this information particularly compelling is the way it challenges some common assumptions. Many people don’t typically think of migration in terms of religion, yet these patterns reflect broader global dynamics like opportunity, diaspora, and demographic change. Seeing the relative sizes of different religious groups among migrants encourages deeper reflection on why certain populations move more than others and how these movements reshape societies. It’s a perspective that blends data with human stories, making it a meaningful and thought-provoking topic to explore. 
 
-## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+## Critique
+
+Overall, the visualization presents interesting and insightful information, but it feels more complicated than necessary. The title highlights one key story—Christians as the largest migrant group—yet the chart contains many other narratives that aren’t aligned with that focus. This mismatch makes the purpose of the visualization feel unclear. Additionally, the notes section is overly long, which distracts from the main message and visually overwhelms the design.
+
+Several structural and layout issues also weaken the clarity of the graphic. The source is placed at the bottom and blends into the notes, when it would be more effective and transparent if positioned near the top. If the emphasis is truly on Christians, the remaining bars could be visually de-emphasized, such as by using a grey color palette for the other groups. As it stands, the colors appear arbitrary rather than meaningful, reducing the sense of intentionality in the design.
+
+Despite these challenges, some elements work well. The clear ordering from largest to smallest makes comparisons intuitive, and the dominant share of Christians is immediately obvious because of the longest bar. However, the color choices and framing of the title risk coming across as biased or leading. In summary, the visualization succeeds in conveying a key insight but suffers from design inconsistencies that affect focus, neutrality, and overall coherence.
 
 ## Step three: Sketch a solution
 
