@@ -87,7 +87,9 @@ However, this improvement came with a trade-off. While the chart is aestheticall
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+Looking back at this final iteration, it’s clear to me that nothing conveys the message as effectively as the pie chart. My initial instinct to use a pie was driven by the idea that it naturally reflects proportions of the world population, making it immediately intuitive. This entire exercise has reinforced an important lesson: simplicity should never be underestimated or fought against. I realized that I had the right approach from the very beginning, but I got caught up in the desire to tell a more detailed story by adding extra data, like the world population comparison. While informative, that addition ended up increasing cognitive load and cluttering the visualization.
+
+For this final version, I returned to the pie chart, but refined it with subtle improvements. I improved the color contrast to make the key segments look differentiated yet not weirdly popping out, used grey for other religions as they are not the focus, and gave the title a little more clarity and playfulness to engage the viewer. I also consciously decided against including the world population data, recognizing that it didn’t add enough value and only distracted from the main insight. Ultimately, this iteration feels like a balance between clarity and storytelling. The pie chart’s simplicity communicates the core message instantly, while the small design tweaks enhance readability and engagement. This process reminded me that sometimes, less truly is more.
 
 ## References
 _List any references you used here._
