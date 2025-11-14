@@ -20,7 +20,9 @@ Several structural and layout issues also weaken the clarity of the graphic. The
 
 Despite these challenges, some elements work well. The clear ordering from largest to smallest makes comparisons intuitive, and the dominant share of Christians is immediately obvious because of the longest bar. However, the color choices and framing of the title risk coming across as biased or leading. In summary, the visualization succeeds in conveying a key insight but suffers from design inconsistencies that affect focus, neutrality, and overall coherence.
 
-## Step three: Sketch a solution
+## Solution Sketch 
+
+![Image](https://github.com/user-attachments/assets/33f5e4c8-7853-472a-95b7-29017d5c7400)
 
 ## Step four: Test the solution
 
