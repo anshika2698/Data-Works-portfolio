@@ -46,7 +46,7 @@ _Don't identify or share personally identifiable information (PII) about the peo
 
 
 | Question | Interview 1 | Interview 2 | Interview 3 |
-|----------|-------------|-------------|
+|----------|-------------|-------------|-------------|
 | What pops out in this visualization?  | The large share of Christians among global migrants stands out, but the visual is cluttered with colors and categories that compete for attention| The contrast between religiously affiliated and unaffiliated groups is noticeable, though the grey for unaffiliated could be stronger| The sheer volume of categories and colors pops out, but it’s visually overwhelming and the main message is not immediately clear
 | What did you like?         |             |             |
 | What shoudl I work upon as a priority?         |             |             |
