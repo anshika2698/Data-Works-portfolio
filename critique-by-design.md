@@ -90,8 +90,8 @@ Looking back at this final iteration, it’s clear to me that nothing conveys th
 For this final version, I returned to the pie chart, but refined it with subtle improvements. I improved the color contrast to make the key segments look differentiated yet not weirdly popping out, used grey for other religions as they are not the focus, and gave the title a little more clarity and playfulness to engage the viewer. I also consciously decided against including the world population data, recognizing that it didn’t add enough value and only distracted from the main insight. Ultimately, this iteration feels like a balance between clarity and storytelling. The pie chart’s simplicity communicates the core message instantly, while the small design tweaks enhance readability and engagement. This process reminded me that sometimes, less truly is more.
 
 ## References
-_List any references you used here._
+
+Kramer, S., & Tong, Y. (2024, August 19). The religious composition of the world’s migrants: Christians are the largest migrant group, but Jews are most likely to have migrated. Pew Research Center. https://www.pewresearch.org/religion/2024/08/19/the-religious-composition-of-the-worlds-migrants/
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
+I also want to acknowledge the use of Microsoft Copilot in helping me reframe my thoughts and critique the visualizations, making my reflections clearer and more understandable.
