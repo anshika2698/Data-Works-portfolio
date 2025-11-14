@@ -49,7 +49,7 @@ _Don't identify or share personally identifiable information (PII) about the peo
 |----------|-------------|-------------|-------------|
 | What pops out in this visualization?  | The large share of Christians among global migrants stands out, but the visual is cluttered with colors and categories that compete for attention| The contrast between religiously affiliated and unaffiliated groups is noticeable, though the grey for unaffiliated could be stronger| The sheer volume of categories and colors pops out, but it’s visually overwhelming and the main message is not immediately clear
 | What did you like?  | They liked that Christians were clearly the largest group it’s an interesting insight and very easy to interpret because the pie chart makes it so obvious| Simple pie chart made the proportions easier to understand than a complex bar graph | Appreciated the simplicity of the pie chart while still providing a detailed breakdown of multiple religions; it felt informative without being overwhelming
-| What shoudl I work upon as a priority?  | Simplify the color scheme and reduce contrast | Develop a clear story and an informative title that guides the audience | Group smaller categories so the key story stands out.
+| What should I work upon as a priority?  | Simplify the color scheme and reduce contrast | Develop a clear story and an informative title that guides the audience | Group smaller categories so the key story stands out.
 
 Synthesis: 
 
