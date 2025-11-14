@@ -2,7 +2,7 @@
 
 # The Religious Composition of the World’s Migrants
 
-## Visualization
+## Original Visualization
 
 <img width="570" height="803" alt="Image" src="https://github.com/user-attachments/assets/7646db8a-ec88-4a81-aabc-b706d763bae2" />
 
