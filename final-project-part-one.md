@@ -52,7 +52,7 @@ Now, to be comprehensive, it would be beneficial to see how people are interacti
 
 To get into the details of social media usage. It would be important to see which platforms are most dominant among the targeted age group, as this would help us understand where attention is being spent.
 
-<img src="https://github.com/user-attachments/assets/618bf22e-0ee3-49cd-933d-d7d580af75cc" width = "500">
+<img src="https://github.com/user-attachments/assets/618bf22e-0ee3-49cd-933d-d7d580af75cc" width = "300">
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
