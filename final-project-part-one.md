@@ -34,7 +34,12 @@ User Story:
 As a person aged between 16–35, I want to balance my social media use with reading so that I can gain knowledge and form my own ideas directly rather than passively consuming curated content.
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+
+My story starts with the background of this idea, as shown above, and then dives into finding whether this trend holds up with a larger set of people or not. 
+
+The very first step is to visualize the data that shows the number of books read between the ages of 16 and 35, along with the time spent on social media among this group
+
+<img src= "https://github.com/user-attachments/assets/69d5e34a-7d64-40f0-8789-956da5c2ce2c" width = "600">
 
 Text here...
 
