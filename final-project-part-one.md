@@ -39,11 +39,11 @@ My story starts with the background of this idea, as shown above, and then dives
 
 The very first step is to visualize the data that shows the number of books read between the ages of 16 and 35, along with the time spent on social media among this age bracket
 
-<img src= "https://github.com/user-attachments/assets/69d5e34a-7d64-40f0-8789-956da5c2ce2c" width = "600">
+<img src= "https://github.com/user-attachments/assets/69d5e34a-7d64-40f0-8789-956da5c2ce2c" width = "400">
 
-<img  src= "https://github.com/user-attachments/assets/c2ce9e2c-2199-4d7c-94cc-96e195d8d3d6" width = "600">
+<img  src= "https://github.com/user-attachments/assets/c2ce9e2c-2199-4d7c-94cc-96e195d8d3d6" width = "400">
 
-<img  src= "https://github.com/user-attachments/assets/117147c1-cd3a-43db-85ba-d9d01b4af233" width = "600">
+<img  src= "https://github.com/user-attachments/assets/117147c1-cd3a-43db-85ba-d9d01b4af233" width = "400">
 
 Text here...
 
