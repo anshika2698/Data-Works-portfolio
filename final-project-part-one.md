@@ -31,7 +31,7 @@ Finally, I hope to examine which social media platforms are most popular and how
 
 User Story: 
 
-As a person aged between 16–35, I want to balance my social media use with reading so that I can gain knowledge directly rather than passively consuming curated content.
+As a person aged between 16–35, I want to balance my social media use with reading so that I can gain knowledge and form my own ideas directly rather than passively consuming curated content.
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
