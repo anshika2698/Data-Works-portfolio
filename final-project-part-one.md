@@ -14,7 +14,7 @@ Here's my weekly average Instagram (my most used social media application) usage
 
 This shows that I spend an average of 100 minutes on Instagram daily. Which is alarming on its own. Retrospectively, I mapped out how many books I have read since I was 16 years old. Here's the graph:
 
-![Image](https://github.com/user-attachments/assets/45dfb66c-9e0e-4561-9852-1b5a36de63a6)
+<img src="https://github.com/user-attachments/assets/45dfb66c-9e0e-4561-9852-1b5a36de63a6" width="400">
 
 Which shows I personally have read less as I have aged. 
 
