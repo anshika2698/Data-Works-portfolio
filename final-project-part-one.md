@@ -50,6 +50,9 @@ Now, to be comprehensive, it would be beneficial to see how people are interacti
 
 <img  src= "https://github.com/user-attachments/assets/c4bb79fe-c8db-43b9-9c1d-9dddaf886029" width ="500">
 
+To get into the details of social media usage. It would be important to see which platforms are most dominant among the targeted age group, as this would help us understand where attention is being spent.
+
+<img src="https://github.com/user-attachments/assets/81dc0036-1049-4635-b968-84a750638d09" width = "500">
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
