@@ -58,6 +58,10 @@ Finally, it would be interesting to see how these platforms interact with users 
 
 <img src="https://github.com/user-attachments/assets/326b4b19-c38b-46c9-9439-0fa2a5813c05" width ="500" >
 
+Another way of depicting the same information could be a heat map, like the sketch below
+
+<img src="https://github.com/user-attachments/assets/7fc59485-41ce-4b64-ba97-6b2e5876811a" width="500">
+
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
