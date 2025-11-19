@@ -25,6 +25,10 @@ If I remember correctly, it used to take me around 600 minutes to read a 300-pag
 
 My aim with this story is to see whether similar trends emerge in more number of people between the ages of 16 and 35. It would be interesting to see how reading habits in late teens and adults are affected by the present boom in social media and clever content that is curated in a way that keeps you hooked on the web of likes, shares, and scrolling. 
 
+It would also be informative to see how people are managing their reading habits. The popularity that audiobooks or e-books have gained over physical paper books would be another indicator of how the medium affects the amount of books we consume. 
+
+It would also be interesting to see which social media platform is most popular and how each application triggers different emotions in us to keep us engaged. The functionality and sentiments these applications build upon are tied towards giving us an experience that makes us come back to them. 
+
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
 Text here...
