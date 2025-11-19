@@ -23,7 +23,7 @@ If I remember correctly, it used to take me around 600 minutes to read a 300-pag
 
 ## Project Outline 
 
-
+My aim with this story is to see whether similar trends emerge in more number of people between the ages of 16 and 35. It would be interesting to see how reading habits in late teens and adults are affected by the present boom in social media and clever content that is curated in a way that keeps you hooked on the web of likes, shares, and scrolling. 
 
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
