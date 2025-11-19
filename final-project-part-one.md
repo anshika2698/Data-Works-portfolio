@@ -54,6 +54,11 @@ To get into the details of social media usage. It would be important to see whic
 
 <img src="https://github.com/user-attachments/assets/618bf22e-0ee3-49cd-933d-d7d580af75cc" width = "300">
 
+Finally, it would be interesting to see how these platforms interact with users and keep them engaged by curating experiences and content that evoke emotions such as happiness, fuel anxieties, etc., which makes users spend more time on the platform than they initially intended to. Therefore, the "doom scrolls" or going into "rabbit holes" is very common. 
+
+<img src="https://github.com/user-attachments/assets/326b4b19-c38b-46c9-9439-0fa2a5813c05" width ="400" >
+
+
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
