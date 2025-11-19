@@ -45,7 +45,11 @@ The very first step is to visualize the data that shows the number of books read
 
 <img  src= "https://github.com/user-attachments/assets/117147c1-cd3a-43db-85ba-d9d01b4af233" width = "500">
 
-Text here...
+Now, to be comprehensive, it would be beneficial to see how people are interacting with other media of reading audiobooks or e-books instead of physical books. This will help us better estimate the current pattern of reading among individuals.
+
+
+<img  src= "https://github.com/user-attachments/assets/c4bb79fe-c8db-43b9-9c1d-9dddaf886029" width ="500">
+
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
