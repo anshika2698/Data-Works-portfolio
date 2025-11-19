@@ -4,8 +4,23 @@
 > Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
 
 # We all can read...then why don't we? Let's pick a book today!
-## Outline
-Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
+## Background 
+
+This topic started with me noticing that I do not read as much as I used to when I was younger. That made me think why that has been. Of course, I have more responsibilities now. I am finishing up graduate school, before that was a working professional for 3 years. "Not having the time to read" is a valid answer if someone asks me, but I think another culprit in this equation is the effect social media has had on my life in terms of grabbing my attention. 
+
+Here's my weekly average Instagram (my most used social media application) usage: 
+
+![Image](https://github.com/user-attachments/assets/11e2834f-2e77-4b52-8bf8-54ff1453e7c8)
+
+This shows that I spend an average of 100 minutes on Instagram daily. Which is alarming on its own. Retrospectively, I mapped out how many books I have read since I was 16 years old. Here's the graph:
+
+![Image](https://github.com/user-attachments/assets/c8b5aeb3-58c0-4d92-b514-2a140e886003)
+
+Which shows I personally have read less as I have aged. 
+
+## Project Outline 
+
+
  
 Text here...
 
