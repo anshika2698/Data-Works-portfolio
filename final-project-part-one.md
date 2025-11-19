@@ -72,12 +72,12 @@ Text here...
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
-|      |     |             |
+| Social Media Usage and Emotional Well-Being | https://www.kaggle.com/datasets/emirhanai/social-media-usage-and-emotional-well-being |             |
+| Reading habit Dataset | https://www.kaggle.com/datasets/vipulgote4/reading-habit-dataset |             |
 |      |     |             |
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
+> By leveraging the data and Tableau to 
 
 Text here...
 
