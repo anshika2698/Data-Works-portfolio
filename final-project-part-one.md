@@ -72,9 +72,8 @@ Text here...
 
 | Name | URL | Description |
 |------|-----|-------------|
-| Social Media Usage and Emotional Well-Being | https://www.kaggle.com/datasets/emirhanai/social-media-usage-and-emotional-well-being |             |
+| Social Media Usage and Emotional Well-Being | https://www.kaggle.com/datasets/emirhanai/social-media-usage-and-emotional-well-being | The Dataset captures valuable information on social media usage and the dominant emotional state of users based on their activities |
 | Reading habit Dataset | https://www.kaggle.com/datasets/vipulgote4/reading-habit-dataset |             |
-|      |     |             |
 
 # Method and medium
 > By leveraging the data and Tableau to 
