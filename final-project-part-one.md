@@ -10,7 +10,7 @@ This topic started with me noticing that I do not read as much as I used to when
 
 Here's my weekly average Instagram (my most used social media application) usage: 
 
-![Image](https://github.com/user-attachments/assets/11e2834f-2e77-4b52-8bf8-54ff1453e7c8)
+<img src="https://github.com/user-attachments/assets/11e2834f-2e77-4b52-8bf8-54ff1453e7c8" width = "400">
 
 This shows that I spend an average of 100 minutes on Instagram daily. Which is alarming on its own. Retrospectively, I mapped out how many books I have read since I was 16 years old. Here's the graph:
 
