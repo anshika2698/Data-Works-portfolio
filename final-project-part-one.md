@@ -33,7 +33,7 @@ User Story:
 
 As a person aged between 16–35, I want to balance my social media use with reading so that I can gain knowledge and form my own ideas directly rather than passively consuming curated content.
 
-## Initial sketches
+## Initial Sketches
 
 My story starts with the background of this idea, as shown above, and then dives into finding whether this trend holds up with a larger set of people or not. 
 
@@ -62,7 +62,7 @@ Another way of depicting the same information could be a heat map.
 
 <img src="https://github.com/user-attachments/assets/7fc59485-41ce-4b64-ba97-6b2e5876811a" width="500">
 
-## The data
+## The Data
 
 | Name | URL | Description |
 |------|-----|-------------|
@@ -75,7 +75,7 @@ The second dataset, the Reading Habit Dataset, will allow me to evaluate how rea
 
 My plan is to integrate insights from both datasets to explore whether high social media usage corresponds to lower reading activity. I also plan on examining which social media platforms dominate attention within this age group and how emotional responses differ across them. These insights will guide the visual story I will build. Starting from my personal experience, widening the lens to population-level patterns, and ultimately revealing how digital engagement might be reshaping the reading behaviors of an entire generation.
 
-## Method and medium
+## Method and Medium
 
 Using Kaggle as the data source and Tableau as the visualization tool, I will be able to bring forward quantitative insights with a narrative flow. This combination will support an accessible, visually engaging story that shows how modern reading behaviors have changed in this digital era.
 
