@@ -76,9 +76,8 @@ The second dataset, the Reading Habit Dataset, will allow me to evaluate how rea
 My plan is to integrate insights from both datasets to explore whether high social media usage corresponds to lower reading activity. I also plan on examining which social media platforms dominate attention within this age group and how emotional responses differ across them. These insights will guide the visual story I build—starting from my personal experience, widening the lens to population-level patterns, and ultimately revealing how digital engagement might be reshaping the reading habits of an entire generation.
 
 # Method and medium
-> By leveraging the data and Tableau to 
 
-Text here...
+Using Kaggle as the data source and Tableau as the visualization tool, I will be able to bring forward quantitative insights with a narrative flow. This combination will support an accessible, visually engaging story that shows how modern reading behaviors have changed in this digital era.
 
 ## References
 _List any references you used here._
