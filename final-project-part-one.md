@@ -19,7 +19,7 @@ This shows I personally have read less as I have aged.
 
 Simple math here:
 
-If I remember correctly, it used to take me around 600 minutes to read a 300-page book. Therefore, in 36500 minutes that I spend on Instagram, I should have read close to 60 books. And this is just Instagram. There are other apps that I use as well. Even if I am being generous to myself and considering I won't spend all my free time on reading, I should have read at least 15 books, but I just read 3. It won't be wrong to point out that the time I spend on social media has affected my attention, and there is a relationship between reading behaviors and social media usage. 
+If I remember correctly, it used to take me around 600 minutes to read a 300-page book. Therefore, in 36500 minutes that I spend on Instagram, I should have read close to 60 books. And this is just Instagram. There are other apps that I use as well. Even if I am being generous to myself and considering I won't spend all my free time on reading, I should have read at least 15 books, but I just read 3. It won't be wrong to point out that the time I spend on social media has affected my attention, and there is a relationship between reading habits and social media usage. 
 
 ## Project Outline 
 
