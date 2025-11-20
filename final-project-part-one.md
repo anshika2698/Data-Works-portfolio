@@ -1,6 +1,6 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# We all can read...then why don't we? Let's pick a book today!
+# We all can read, so why don't we? Let's pick a book today!
 ## Background 
 
 This topic started with me noticing that I do not read as much as I used to when I was younger. That made me think why that has been. Of course, I have more responsibilities now, as I am finishing up graduate school. Before that, I was a working professional for 3 years. "Not having the time to read" is a valid answer if someone asks me, but I think another culprit in this equation is the effect social media has had on my life in terms of hogging my attention. 
