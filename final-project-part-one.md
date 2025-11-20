@@ -77,7 +77,7 @@ My plan is to integrate insights from both datasets to explore whether high soci
 
 ## Method and Medium
 
-Using Kaggle as the data source and Tableau as the visualization tool, I will be able to bring forward quantitative insights with a narrative flow. This combination will support an accessible, visually engaging story that shows how modern reading behaviors have changed in this digital era.
+Using Kaggle as the data source, Tableau as the visualization tool, and Shorthand to flesh out my entire story. This will help me bring forward quantitative insights with a narrative flow. This combination will support an accessible, visually engaging story that shows how modern reading behaviors have changed in this digital era.
 
 ## References
 - Emirhan BULUT. (2024). Social Media Usage and Emotional Well-Being [Data set]. Kaggle. [https://doi.org/10.34740/KAGGLE/DSV/8460631](https://doi.org/10.34740/KAGGLE/DSV/8460631)
