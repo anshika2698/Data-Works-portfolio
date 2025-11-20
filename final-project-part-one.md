@@ -80,10 +80,10 @@ My plan is to integrate insights from both datasets to explore whether high soci
 Using Kaggle as the data source and Tableau as the visualization tool, I will be able to bring forward quantitative insights with a narrative flow. This combination will support an accessible, visually engaging story that shows how modern reading behaviors have changed in this digital era.
 
 ## References
-- 1) Emirhan BULUT. (2024). Social Media Usage and Emotional Well-Being [Data set]. Kaggle. [https://doi.org/10.34740/KAGGLE/DSV/8460631](https://doi.org/10.34740/KAGGLE/DSV/8460631)
-- 2) Gote, V. (2020). Reading Habit Dataset [Data set]. Kaggle. [https://www.kaggle.com/datasets/vipulgote4/reading-habit-dataset](https://www.kaggle.com/datasets/vipulgote4/reading-habit-dataset)
-- 3) Perrin, A., & Faverio, M. (2022, January 6). Three-in-ten Americans now read e-books. Pew Research Center. [https://www.pewresearch.org/short-reads/2022/01/06/three-in-ten-americans-now-read-e-books/](https://www.pewresearch.org/short-reads/2022/01/06/three-in-ten-americans-now-read-e-books/)
-- 4) Berens, K. I., & Noorda, R. (2023, November). Gen Z and Millennials: How they use public libraries and identify through media use (Report). Portland State University / American Library Association
+- Emirhan BULUT. (2024). Social Media Usage and Emotional Well-Being [Data set]. Kaggle. [https://doi.org/10.34740/KAGGLE/DSV/8460631](https://doi.org/10.34740/KAGGLE/DSV/8460631)
+- Gote, V. (2020). Reading Habit Dataset [Data set]. Kaggle. [https://www.kaggle.com/datasets/vipulgote4/reading-habit-dataset](https://www.kaggle.com/datasets/vipulgote4/reading-habit-dataset)
+- Perrin, A., & Faverio, M. (2022, January 6). Three-in-ten Americans now read e-books. Pew Research Center. [https://www.pewresearch.org/short-reads/2022/01/06/three-in-ten-americans-now-read-e-books/](https://www.pewresearch.org/short-reads/2022/01/06/three-in-ten-americans-now-read-e-books/)
+- Berens, K. I., & Noorda, R. (2023, November). Gen Z and Millennials: How they use public libraries and identify through media use (Report). Portland State University / American Library Association
 
 ## AI acknowledgements
 I also want to acknowledge the use of Microsoft Copilot in helping me structure my ideas more coherently. 
