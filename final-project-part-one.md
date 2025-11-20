@@ -66,8 +66,8 @@ Another way of depicting the same information could be a heat map, like the sket
 
 | Name | URL | Description |
 |------|-----|-------------|
-| Social Media Usage and Emotional Well-Being | [Link Text](https://www.kaggle.com/datasets/emirhanai/social-media-usage-and-emotional-well-being) | The Dataset captures information on population demographics and their social media usage and the emotional state of users when they use a particular application|
-| Reading habit Dataset | [Link Text](https://www.kaggle.com/datasets/vipulgote4/reading-habit-dataset) | The dataset contains user demographics and the number of books they have read in 12 months. Additional engagements with audiobooks and e-books are also elaborated |
+| Social Media Usage and Emotional Well-Being | [Social Media Usage](https://www.kaggle.com/datasets/emirhanai/social-media-usage-and-emotional-well-being) | The Dataset captures information on population demographics and their social media usage and the emotional state of users when they use a particular application|
+| Reading habit Dataset | [Reading Habits](https://www.kaggle.com/datasets/vipulgote4/reading-habit-dataset) | The dataset contains user demographics and the number of books they have read in 12 months. Additional engagements with audiobooks and e-books are also elaborated |
 
 For this project, I will be using two primary datasets that together help explore the relationship between reading habits and social media usage among individuals aged 16 to 35. The first dataset, Social Media Usage and Emotional Well-Being, will help me capture not only how much young adults interact with various platforms but also how those platforms shape their emotional experience, be it happiness, sadness, or anxiety. These emotional patterns are especially important in understanding why users continue to return to platforms and how their time online accumulates into long-term habits such as doom-scrolling or falling into algorithmic “rabbit holes.”
 
