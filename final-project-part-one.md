@@ -62,13 +62,7 @@ Another way of depicting the same information could be a heat map, like the sket
 
 <img src="https://github.com/user-attachments/assets/7fc59485-41ce-4b64-ba97-6b2e5876811a" width="500">
 
-
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
-
-Text here...
-
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available, please talk to me first. 
 
 | Name | URL | Description |
 |------|-----|-------------|
