@@ -68,12 +68,12 @@ Another way of depicting the same information could be a heat map, like the sket
 
 Text here...
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available, please talk to me first. 
 
 | Name | URL | Description |
 |------|-----|-------------|
 | Social Media Usage and Emotional Well-Being | https://www.kaggle.com/datasets/emirhanai/social-media-usage-and-emotional-well-being | The Dataset captures information on population demographics and their social media usage and the emotional state of users when they use a particular application|
-| Reading habit Dataset | https://www.kaggle.com/datasets/vipulgote4/reading-habit-dataset |             |
+| Reading habit Dataset | https://www.kaggle.com/datasets/vipulgote4/reading-habit-dataset | The dataset contains user demographics and the number of books they have read in 12 months. Additional engaments with audiobooks and e-books are also elaborated |
 
 # Method and medium
 > By leveraging the data and Tableau to 
