@@ -86,4 +86,4 @@ Using Kaggle as the data source and Tableau as the visualization tool, I will be
 > 4) Berens, K. I., & Noorda, R. (2023, November). Gen Z and Millennials: How they use public libraries and identify through media use (Report). Portland State University / American Library Association
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I also want to acknowledge the use of Microsoft Copilot in helping me structure my ideas more coherently. 
