@@ -19,11 +19,11 @@ This shows I personally have read less as I have aged.
 
 Simple math here:
 
-If I remember correctly, it used to take me around 600 minutes to read a 300-page book. Therefore, in 36500 minutes that I spend on Instagram, I should have read close to 60 books. And this is just Instagram. There are other apps that I use as well. Even if I am being generous to myself and considering I won't spend all my free time on reading, I should have read at least 15 books, but I just read 3. It won't be wrong to point out that the time I spend on social media has affected my attention, and there is a correlation between reading and social media usage. 
+If I remember correctly, it used to take me around 600 minutes to read a 300-page book. Therefore, in 36500 minutes that I spend on Instagram, I should have read close to 60 books. And this is just Instagram. There are other apps that I use as well. Even if I am being generous to myself and considering I won't spend all my free time on reading, I should have read at least 15 books, but I just read 3. It won't be wrong to point out that the time I spend on social media has affected my attention, and there is a relationship between reading behaviors and social media usage. 
 
 ## Project Outline 
 
-My aim with this story is to explore whether similar patterns appear among a larger group of people between the ages of 16 and 35. I want to understand how reading habits in late teens and adults are shaped by the current boom in social media and the clever, attention-grabbing content designed to keep us scrolling.
+My aim with this story is to explore whether similar patterns appear among a larger group of people between the ages of 16 and 35. I want to understand how reading habits and behaviors in late teens and adults are shaped by the current boom in social media and the clever, attention-grabbing content designed to keep us scrolling.
 
 It would also be valuable to see how people maintain their reading routines today. The rising popularity of audiobooks and e-books compared to physical books may reveal how the medium influences the amount of reading we actually do.
 
@@ -58,7 +58,7 @@ Finally, it would be interesting to see how these platforms interact with users 
 
 <img src="https://github.com/user-attachments/assets/326b4b19-c38b-46c9-9439-0fa2a5813c05" width ="500" >
 
-Another way of depicting the same information could be a heat map, like the sketch below
+Another way of depicting the same information could be a heat map.
 
 <img src="https://github.com/user-attachments/assets/7fc59485-41ce-4b64-ba97-6b2e5876811a" width="500">
 
@@ -73,7 +73,7 @@ For this project, I will be using two primary datasets that together help explor
 
 The second dataset, the Reading Habit Dataset, will allow me to evaluate how reading habits vary within my target age group and whether certain reading formats correlate with increased or decreased overall reading time. By analyzing audiobook and e-book engagement alongside traditional reading, I can better differentiate whether people are replacing reading with digital content—or simply shifting the medium through which they consume books.
 
-My plan is to integrate insights from both datasets to explore whether high social media usage corresponds to lower reading activity. I also plan on examining which social media platforms dominate attention within this age group and how emotional responses differ across them. These insights will guide the visual story I build—starting from my personal experience, widening the lens to population-level patterns, and ultimately revealing how digital engagement might be reshaping the reading habits of an entire generation.
+My plan is to integrate insights from both datasets to explore whether high social media usage corresponds to lower reading activity. I also plan on examining which social media platforms dominate attention within this age group and how emotional responses differ across them. These insights will guide the visual story I will build. Starting from my personal experience, widening the lens to population-level patterns, and ultimately revealing how digital engagement might be reshaping the reading behaviors of an entire generation.
 
 ## Method and medium
 
