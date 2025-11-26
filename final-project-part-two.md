@@ -14,10 +14,11 @@ People in the 25–30 age range occupy a unique and transitional stage of life. 
 
 | Goal | Questions to Ask |
 |------|------------------|
-| Understand how users emotionally experience the story and connect with it |                  |
-| Assess how users interpret and understand the data visualizations |                  |
+| Understand how users emotionally experience the story and connect with it | What part of the story made you feel the strongest reaction? Why?, Did the narrative resonate with your experience?, Did anything feel confusing, overwhelming, or hard to connect to emotionally? |
+| Assess how users interpret and understand the data visualisations |                  |
 | Get insights on whether the narrative flows smoothly from section to section |                  |
-| Understand what actions or changes the story motivates ||
+| Understand what actions or changes the story motivates | |
+| To understand what works and doesn't for the design| |
 
 
 Text here!
@@ -55,9 +56,6 @@ Text here!
 > If you did this optional part, include details here.  Otherwise remove this section
 
 Text here!
-
-## References
-_List any references you used here._
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
