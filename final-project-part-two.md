@@ -1,14 +1,13 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Shorthand Link: https://preview.shorthand.com/FSuLeGuMBl4jFkSt
+
+Shorthand Link: https://preview.shorthand.com/FSuLeGuMBl4jFkSt
 
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
-
-Text here!
+People in the age group 25-30
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
