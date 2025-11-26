@@ -20,20 +20,16 @@ People in the 25–30 age range occupy a unique and transitional stage of life. 
 | Understand what actions or changes the story motivates | After reading, do you feel motivated to change your social media habits? Why or why not?, Would you consider setting boundaries or tracking your usage more consciously?, What would help you take concrete next steps? |
 | To understand what works and doesn't for the design| Did you like the theme?, How did the color scheme work for you?, Did the background images become overwhelming at any time? |
 
-
-Text here!
-
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
-
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 | Interview 4 | Interview 5 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
-
+| Did the narrative resonate with your experience?|             |             |             |
+| Did anything feel confusing, overwhelming, or hard to connect to emotionally? |                                |             |             |
+| Which visualization was the easiest to understand? Why? |                                |             |             |
+| Which one confused the most?||| 
+| To understand what works and doesn't for the design| Did you like the theme?| |||||
+| After reading, do you feel motivated to change your social media habits? Why or why not? | 
 
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
