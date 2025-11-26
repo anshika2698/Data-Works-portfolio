@@ -4,22 +4,20 @@
 
 Shorthand Link: https://preview.shorthand.com/FSuLeGuMBl4jFkSt
 
-# User research 
+# User Research 
 
-## Target audience
+## Target Audience
 
 People in the 25–30 age range occupy a unique and transitional stage of life. They are typically early in their careers, juggling increasing professional responsibilities while still navigating personal identity, relationships, and lifestyle choices. This demographic is also one of the most digitally immersed, having grown up during the rise of smartphones, social media, and constant online connectivity.
 
-## Interview script
-> List the goals from your research, and the questions you intend to ask. 
-
-Text here!
+## Interview Script
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+| Understand how users emotionally experience the story and connect with it |                  |
+| Assess how users interpret and understand the data visualizations |                  |
+| Get insights on whether the narrative flows smoothly from section to section |                  |
+| Understand what actions or changes the story motivates ||
 
 
 Text here!
