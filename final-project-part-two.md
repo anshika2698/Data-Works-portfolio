@@ -23,7 +23,7 @@ People in the 25–30 age range occupy a unique and transitional stage of life. 
 ## Interview findings
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 | Interview 4 | Interview 5 |
-|-------------------------|--------------------------------|-------------|-------------|
+|-------------------------|--------------------------------|-------------|-------------|-------------|-------------|
 | Did the narrative resonate with your experience?|             |             |             |
 | Did anything feel confusing, overwhelming, or hard to connect to emotionally? |                                |             |             |
 | Which visualization was the easiest to understand? Why? |                                |             |             |
