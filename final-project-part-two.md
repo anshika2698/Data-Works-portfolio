@@ -15,10 +15,10 @@ People in the 25–30 age range occupy a unique and transitional stage of life. 
 | Goal | Questions to Ask |
 |------|------------------|
 | Understand how users emotionally experience the story and connect with it | What part of the story made you feel the strongest reaction? Why?, Did the narrative resonate with your experience?, Did anything feel confusing, overwhelming, or hard to connect to emotionally? |
-| Assess how users interpret and understand the data visualisations |                  |
-| Get insights on whether the narrative flows smoothly from section to section |                  |
-| Understand what actions or changes the story motivates | |
-| To understand what works and doesn't for the design| |
+| Assess how users interpret and understand the data visualisations |  Which visualization was the easiest to understand? Why?, Which one confused the most?, Were you able to understand the emotion bubble chart at a glance? |
+| Get insights on whether the narrative flows smoothly from section to section | Did the story feel cohesive and connected as you scrolled?,  Was there any point where you felt lost or unsure why a section was included?, Where did your attention peak and dip throughout the story? |
+| Understand what actions or changes the story motivates | After reading, do you feel motivated to change your social media habits? Why or why not?, Would you consider setting boundaries or tracking your usage more consciously?, What would help you take concrete next steps? |
+| To understand what works and doesn't for the design| Did you like the theme?, How did the color scheme work for you?, Did the background images become overwhelming at any time? |
 
 
 Text here!
