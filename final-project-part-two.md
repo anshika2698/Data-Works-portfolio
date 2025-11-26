@@ -7,7 +7,8 @@ Shorthand Link: https://preview.shorthand.com/FSuLeGuMBl4jFkSt
 # User research 
 
 ## Target audience
-People in the age group 25-30
+
+People in the 25–30 age range occupy a unique and transitional stage of life. They are typically early in their careers, juggling increasing professional responsibilities while still navigating personal identity, relationships, and lifestyle choices. This demographic is also one of the most digitally immersed, having grown up during the rise of smartphones, social media, and constant online connectivity.
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
