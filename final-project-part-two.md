@@ -12,6 +12,36 @@ People in the 25–30 age range occupy a unique and transitional stage of life. 
 
 ## Interview Script
 
+>> Opening:
+“Thanks for helping! I’m collecting feedback on a story + visualizations about reading bahits are getting affected by our social media usage. There are no right or wrong answers.”
+
+> Phase 1: Warm-up
+
+Which social media platforms do you use the most?
+
+How much time do you spend daily?
+
+> Phase 2: Storyboard Feedback
+
+Did the story resonate with your experience? Why or why not?
+
+Was anything confusing or hard to connect to?
+
+> Phase 3: Visualization Feedback
+
+Which visualization was easiest to understand? Why?
+
+Which one was most confusing?
+
+Did any background images feel distracting?
+
+> Phase 4: Behavior Reflection
+
+After reading it, do you feel motivated to change your social media habits? Why or why not?
+
+>> Closing:
+“Thank you for your valuable feedback and time!  Is there anything else you want to add?”
+
 | Goal | Questions to Ask |
 |------|------------------|
 | Understand how users emotionally experience the story and connect with it | What part of the story made you feel the strongest reaction? Why?, Did the narrative resonate with your experience?, Did anything feel confusing, overwhelming, or hard to connect to emotionally? |
