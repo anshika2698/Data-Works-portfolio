@@ -40,7 +40,7 @@ People in the 25–30 age range occupy a unique and transitional stage of life. 
 | Some readers liked the relatable backgrounds, but others found them distracting, inconsistent, or overwhelming on text-heavy pages | For text-heavy pages I need to switch to solid or lightly textured backgrounds with stronger contrast and also establish one consistent color palette across sections |
 | Several interviewees said the transitions—especially from personal data → age-group data → emotional-platform analysis—felt abrupt or confusing. Some weren’t sure whose emotions or data were being represented: mine, general findings, or the data | I will add short transition statements between sections to guide the reader and I am also considering adding a clear label at the start of each visualization indicating the data source |                                                                             |
 
-My aim with Part III will be to ensure  balance, clarity, and engagement by simplifying visuals, maintaining consistent design, and clearly guiding the reader through transitions—preserving the narrative’s impact while making it approachable for all audiences.
+My aim with Part III will be to ensure  balance, clarity, and engagement by simplifying visuals, maintaining consistent design, and clearly guiding the reader through transitions, preserving the narrative’s impact while making it approachable for all audiences.
 
 # Moodboards / personas
 
