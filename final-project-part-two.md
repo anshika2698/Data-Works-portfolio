@@ -53,5 +53,4 @@ Text here!
 Here's my Moodboard: https://www.canva.com/design/DAG5ioGJMfc/I7VcfxONKUlJdFkSRd6pVA/edit?utm_content=DAG5ioGJMfc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
+I also want to acknowledge the use of Microsoft Copilot in helping me structure my ideas more coherently and helping me ideate over several questions that I could ask to make the most out of my user interviews. 
