@@ -12,7 +12,7 @@ People in the 25–30 age range occupy a unique and transitional stage of life. 
 
 ## Interview Script
 
->> Opening:
+> Opening:
 “Thanks for helping! I’m collecting feedback on a story + visualizations about reading bahits are getting affected by our social media usage. There are no right or wrong answers.”
 
 > Phase 1: Warm-up
@@ -39,7 +39,7 @@ Did any background images feel distracting?
 
 After reading it, do you feel motivated to change your social media habits? Why or why not?
 
->> Closing:
+> Closing:
 “Thank you for your valuable feedback and time!  Is there anything else you want to add?”
 
 | Goal | Questions to Ask |
