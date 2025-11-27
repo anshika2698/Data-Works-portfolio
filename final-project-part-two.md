@@ -32,15 +32,12 @@ People in the 25–30 age range occupy a unique and transitional stage of life. 
 | After reading, do you feel motivated to change your social media habits? Why or why not? | Yes, they actually did. Seeing the minutes laid out visually made them realize how much time they waste without noticing | Maybe, it definitely made them more aware and made them think about their habits, but it was not enough for them to make immediate changes | Yes, especially seeing the emotional triggers made them realize they scroll more when they felt anxious or bored, which is something they want to work on | Maybe, the narrative definitely made them reflect, but breaking habits is tough and they were not sure how feasible it was for them | Not really, the information was interesting and relatable, but they felt their social media use was manageable |
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
+| Most people resonated with the narrative and tension around reading vs. scrolling. But one participant felt the title was “attacking” and too personally confronting | Making the title maintain impact without feeling accusatory and mindful of all sentiments |
+| The emotion bubble chart was consistently the most confusing across interviews. Words like “cluttered,” “dense,” and “not intuitive” came up repeatedly | Either redesign the bubble chart into a simpler, more comfortable format or remove it entirely. I need to analyse if it makes sense to keep it |
+|                                           |                                                                                 |
 |                                          |                                                                                 |
 | ...add more rows as necessary            |                                                                                 |
 
