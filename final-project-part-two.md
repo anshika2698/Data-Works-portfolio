@@ -22,13 +22,13 @@ People in the 25–30 age range occupy a unique and transitional stage of life. 
 
 ## Interview findings
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 | Interview 4 | Interview 5 |
+| Questions               | Interview 1 | Interview 2 | Interview 3 | Interview 4 | Interview 5 |
 |-------------------------|--------------------------------|-------------|-------------|-------------|-------------|
-| Did the narrative resonate with your experience?|             |             |             |
+| Did the narrative resonate with your experience?| Really liked the snappy title, peaks interest and makes people want to read further | The title felt "attacking" as they could relate to it too much and made them reflect on their usage| The overall narrative was very interesting they did not ever realise to look at reading books from the lens of social media affecting it |
 | Did anything feel confusing, overwhelming, or hard to connect to emotionally? |                                |             |             |
 | Which visualization was the easiest to understand? Why? |                                |             |             |
 | Which one confused the most?||| 
-| To understand what works and doesn't for the design| Did you like the theme?| |||||
+| Did the background images become overwhelming at any time?| | | | | |
 | After reading, do you feel motivated to change your social media habits? Why or why not? | 
 
 # Identified changes for Part III
