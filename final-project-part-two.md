@@ -2,7 +2,7 @@
 
 # Wireframes / storyboards
 
-Shorthand Link: https://preview.shorthand.com/FSuLeGuMBl4jFkSt
+Shorthand Link: [https://preview.shorthand.com/FSuLeGuMBl4jFkSt](https://preview.shorthand.com/FSuLeGuMBl4jFkSt)
 
 # User Research 
 
