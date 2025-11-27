@@ -38,11 +38,11 @@ People in the 25–30 age range occupy a unique and transitional stage of life. 
 | Most people resonated with the narrative and tension around reading vs. scrolling. But one participant felt the title was “attacking” and too personally confronting | Making the title maintain impact without feeling accusatory and mindful of all sentiments 
 | The emotion bubble chart was consistently the most confusing across interviews. Words like “cluttered,” “dense,” and “not intuitive” came up repeatedly | Either redesign the bubble chart into a simpler, more comfortable format or remove it entirely. I need to analyse if it makes sense to keep it
 | Some readers liked the relatable backgrounds, but others found them distracting, inconsistent, or overwhelming on text-heavy pages | For text-heavy pages I need to switch to solid or lightly textured backgrounds with stronger contrast and also establish one consistent color palette across sections 
-| Several interviewees said the transitions—especially from personal data → age-group data → emotional-platform analysis—felt abrupt or confusing. Some weren’t sure whose emotions or data were being represented: mine, general findings, or the data | I will add short transition statements between sections to guide the reader and I am also considering adding a clear label at the start of each visualization indicating the data source |                                                                             
+| Several interviewees said the transitions—especially from personal data → age-group data → emotional-platform analysis felt abrupt or confusing. Some weren’t sure whose emotions or data were being represented: mine, general findings, or the data | I will add short transition statements between sections to guide the reader and I am also considering adding a clear label at the start of each visualization indicating the data source |                                                                             
 
 My aim with Part III will be to ensure  balance, clarity, and engagement by simplifying visuals, maintaining consistent design, and clearly guiding the reader through transitions, preserving the narrative’s impact while making it approachable for all audiences.
 
-# Moodboards / personas
+# Moodboards
 
 Here's my Moodboard: https://www.canva.com/design/DAG5ioGJMfc/I7VcfxONKUlJdFkSRd6pVA/edit?utm_content=DAG5ioGJMfc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
