@@ -5,6 +5,7 @@
 
 <img src="https://github.com/user-attachments/assets/c1a500b3-cbb7-4830-b092-01b1ec988a0f" width = "600">
 
+First line.<br>Second line.
 
 > Sketch below represents the visualisation of amount of music I listen to in a day
 
