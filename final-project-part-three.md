@@ -3,10 +3,13 @@
 # The final data story
 Shorthand Story: [From Novels to Nine-Second Reels: The Attention Swap We Didn’t Notice](https://preview.shorthand.com/FSuLeGuMBl4jFkSt) 
 
-# Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
+# Changes and Design Decision made since Part II
 
-Text here!
+Since part II, I have made quite a number of changes as suggested by my users. These changes range from cosmetic changes to story design changes. I also refined a couple of my visualisations as suggested by people.
+
+**The Title:** People liked the title, but one person found the title too snappy which can be ignored, but as per math, when this website goes public, there is a good chance that 15-20% might feel attacked therefore I decided to change the tile from "We all can read, so why don’t we? Let’s pick a book today!" to "From Novels to Nine-Second Reels: The Attention Swap We Didn’t Notice" which delivered the sentiments in a more neutral and "makes you ponder" kinda way than making people feel judged. 
+
+**Background Images:** 
 
 
 ## The audience
