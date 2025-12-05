@@ -13,7 +13,7 @@
 
 >In this visualization, the y-axis represents the 28 skills and the x-axis is the 15 career areas where these skills may or may not be used. The visualization is a heat map that maps it all.
 
-<img width="1585" height="795" alt="Image" src="https://github.com/user-attachments/assets/4132a712-4079-4f96-ac7f-3eea45455797" />
+<img width="1585" height="795" alt="Image" src="https://github.com/user-attachments/assets/4132a712-4079-4f96-ac7f-3eea45455797" /> <br>
 
 > In this visualization, we have mapped the Female Life Expectancy with the birth rate and grouped by the continents. A higher birth rate seems to relate to a lower female life expectancy.
 
