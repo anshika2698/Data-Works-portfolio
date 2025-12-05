@@ -31,7 +31,7 @@
 
 > The index was lost in the sea of data. They should have been presented separately and clearly, which I did with my design. <br>
 
-<img width="600" src="https://github.com/user-attachments/assets/7de9e22e-154f-4be6-b0f1-1a27f4a126f8">
+<img width="600" src="https://github.com/user-attachments/assets/7de9e22e-154f-4be6-b0f1-1a27f4a126f8"> <br>
 
 > This heatmap visualization shows Government Debt for different countries 
 
@@ -43,9 +43,9 @@
   var scriptElement = document.createElement('script');                    
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
-</script>
+</script> <br>
 
-> This is another visualization of Government Debt, but this is focused on European countries between 1995 - 2019
+> This is another visualization of Government Debt, but this is focused on European countries from the year 1995 till 2019
 
 <div class='tableauPlaceholder' id='viz1762226705808' style='position: relative'><noscript><a href='#'><img alt='General Government Debt of European Countries as % of GDP from 1995 - 2019Source: https:&#47;&#47;www.oecd.org&#47;en&#47;data&#47;indicators&#47;general-government-debt.html ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Eu&#47;EuropeDebt&#47;Sheet3&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='EuropeDebt&#47;Sheet3' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Eu&#47;EuropeDebt&#47;Sheet3&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
