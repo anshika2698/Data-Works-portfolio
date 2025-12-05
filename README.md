@@ -1,4 +1,4 @@
-| [home page](https://anshika2698.github.io/Data-Works-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [Home Page](https://anshika2698.github.io/Data-Works-portfolio/) | [Data Vizualizations Examples](dataviz-examples) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
 
 # About me
 Hi there! My name is Anshika, and I believe making the best out of the opportunities you fall upon is a skill known to many but mastered by none. 
