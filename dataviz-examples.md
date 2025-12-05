@@ -8,4 +8,19 @@
 
 > Sketch below represents the visualisation of amount of music I listen to in a day
 
-<img src="https://github.com/user-attachments/assets/dae7728a-9f12-42e3-afde-ab0e5ca97228" width = "600">
+<img src="https://github.com/user-attachments/assets/dae7728a-9f12-42e3-afde-ab0e5ca97228" width = "600"> <br>
+
+
+>In the visualization, the y-axis represents the 28 skills and the x-axis is the 15 career areas where these skills may or may not be used. The visualization is a heat map that maps it all.
+
+<img width="1585" height="795" alt="Image" src="https://github.com/user-attachments/assets/4132a712-4079-4f96-ac7f-3eea45455797" />
+
+
+
+
+
+
+
+
+
+
