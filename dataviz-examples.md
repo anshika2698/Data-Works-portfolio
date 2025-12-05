@@ -43,7 +43,8 @@
   var scriptElement = document.createElement('script');                    
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
-</script> <br>
+</script> 
+<br>
 
 > This is another visualization of Government Debt, but this is focused on European countries from the year 1995 till 2019
 
