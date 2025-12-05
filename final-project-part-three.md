@@ -1,7 +1,7 @@
 | [Home Page](https://anshika2698.github.io/Data-Works-portfolio/) | [Data Vizualizations Examples](dataviz-examples) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
+> Shorthand Story: [From Novels to Nine-Second Reels: The Attention Swap We Didn’t Notice](https://carnegiemellon.shorthandstories.com/reading-vs-social-media/index.html) 
 
 Text here!
 
