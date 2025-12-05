@@ -27,7 +27,11 @@
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+> The visualization below shows how we can persuade a patient to get some sleep. I was originally a result you get from the sleep study test. The tables there had to be made less complicated. I did that by reducing the amount of information present
 
+> The index was lost in the sea of data. They should have been presented separately and clearly, which I did with my design. <br>
+
+<img width="1585" height="795" alt="Image" src="https://github.com/user-attachments/assets/7de9e22e-154f-4be6-b0f1-1a27f4a126f8">
 
 
 
