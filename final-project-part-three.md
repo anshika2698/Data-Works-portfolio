@@ -26,12 +26,11 @@ Part II set me up quite well in terms of visualizations. Most of my visualizatio
 
 Text here!
 
-# References
-Emirhan BULUT. (2024). Social Media Usage and Emotional Well-Being [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DSV/8460631
-Gote, V. (2020). Reading Habit Dataset [Data set]. Kaggle. https://www.kaggle.com/datasets/vipulgote4/reading-habit-dataset
-Perrin, A., & Faverio, M. (2022, January 6). Three-in-ten Americans now read e-books. Pew Research Center. https://www.pewresearch.org/short-reads/2022/01/06/three-in-ten-americans-now-read-e-books/
-Berens, K. I., & Noorda, R. (2023, November). Gen Z and Millennials: How they use public libraries and identify through media use (Report). Portland State University / American Library Association
-
+## References
+- Emirhan BULUT. (2024). Social Media Usage and Emotional Well-Being [Data set]. Kaggle. [https://doi.org/10.34740/KAGGLE/DSV/8460631](https://doi.org/10.34740/KAGGLE/DSV/8460631)
+- Gote, V. (2020). Reading Habit Dataset [Data set]. Kaggle. [https://www.kaggle.com/datasets/vipulgote4/reading-habit-dataset](https://www.kaggle.com/datasets/vipulgote4/reading-habit-dataset)
+- Perrin, A., & Faverio, M. (2022, January 6). Three-in-ten Americans now read e-books. Pew Research Center. [https://www.pewresearch.org/short-reads/2022/01/06/three-in-ten-americans-now-read-e-books/](https://www.pewresearch.org/short-reads/2022/01/06/three-in-ten-americans-now-read-e-books/)
+- Berens, K. I., & Noorda, R. (2023, November). Gen Z and Millennials: How they use public libraries and identify through media use (Report). Portland State University / American Library Association
 
 # AI acknowledgements
 I also want to acknowledge the use of Microsoft Copilot in helping me structure my ideas more coherently and help me polish the elements of the story that could benefit from adding more clarity in terms of text, data, and general insights. 
