@@ -58,5 +58,5 @@
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-
+> The below visualizations show how much different new organizations are trusted. The data shows that The Wall Street Journal is trusted the most.  
 
