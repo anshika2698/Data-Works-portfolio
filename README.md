@@ -62,35 +62,3 @@ This section includes stuff from in-class demos or your other activities
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-### Date : Oct 21, 2025
-### Date : Oct 28, 2025
-### Date : Oct 30, 2025
-
-## Assignment Week 1
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
-
-## Assignment Week 2
-For this assignment, make sure you set up and link to a new page. This page is linking to a new Markdown document called `critique-by-design.md`.  
-
-## Assignment Week 3
-For this assignment, make sure you set up and link to a new page. This page is linking to a new Markdown document called `critique-by-design.md`.  
-
-## Assignment Week 4
-For this assignment, make sure you set up and link to a new page. This page is linking to a new Markdown document called `critique-by-design.md`.  
-
-## Assignment Week 5
-For this assignment, make sure you set up and link to a new page. This page is linking to a new Markdown document called `critique-by-design.md`.  
-
-## Assignment Week 6
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
-
-## Assignment Week 7
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
-
-## Final Project for this course
-Here it might be helpful to include a high-level description of your final project. 
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-Part III(final-project-part-three)
-
----
