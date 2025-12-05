@@ -7,10 +7,10 @@ Shorthand Story: [From Novels to Nine-Second Reels: The Attention Swap We Didn�
 
 Since part II, I have made quite a number of changes as suggested by my users. These changes range from cosmetic changes to story design changes. I also refined a couple of my visualisations as suggested by people.
 
-**The Title:**
+**The Title:** <br>
 People liked the title, but one person found the title too snappy which can be ignored, but as per math, when this website goes public, there is a good chance that 15-20% might feel attacked therefore I decided to change the tile from "We all can read, so why don’t we? Let’s pick a book today!" to "From Novels to Nine-Second Reels: The Attention Swap We Didn’t Notice" which delivered the sentiments in a more neutral and "makes you ponder" kinda way than making people feel judged. 
 
-**Background Images:** 
+**Background Images:** <br>
 The moodboard helped, and from the start, I knew I wanted bright colors and an edge to the website for two reasons. Firstly, the book covers come in every possible color you can think of and add to their charm and secondly social media is all about different styles, colors, and pictures coming together to keep the audience engaged, so it was quite "on brand" in my opinion. It was not as easy as I supposed it would be. Finding the right balance between the theme, tone, color, and contrast was a bit tricky to achieve. 
 
 There were a few background images that resonated well with the content of that particular page, but did not match the theme of the website overall. So I had to replace them. Being too committed to a background image was not a good strategy, and being flexible in that sense helped me have a better overall theme and design for the website. The contrast was another issue. Some images were too bright and high contrast, which made the text placed on top of them way too overwhelming. Another decision I made was to use mellow shades of yellow and off white for the website. I did, however, sprinkle a few pastel colors here and there throughout the website. Finally, these strategies worked much better and aligned with my vision. 
