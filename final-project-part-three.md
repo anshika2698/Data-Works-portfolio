@@ -34,15 +34,6 @@ Here, copiolet came in handy to brainstorm ideas and give me more directions. Su
 - The "My Data" section had the time I spent on social media in minutes, which seemed less intuitive to people, so converting it into days made a difference, as that seemed more digestible and easy to estimate, and created a sense of urgency.
 - To make my call to action more tangible and valid, I introduced an additional "How do we lower this friction?" section and suggested ways that can help in increasing reading and less time on social media, which made people think it is not just an idea but something that can be implemented easily in their day-to-day lives.
 - Added a reference section on shorthand.
-  
-# References
-- Emirhan BULUT. (2024). Social Media Usage and Emotional Well-Being [Data set]. Kaggle. [https://doi.org/10.34740/KAGGLE/DSV/8460631](https://doi.org/10.34740/KAGGLE/DSV/8460631)
-- Gote, V. (2020). Reading Habit Dataset [Data set]. Kaggle. [https://www.kaggle.com/datasets/vipulgote4/reading-habit-dataset](https://www.kaggle.com/datasets/vipulgote4/reading-habit-dataset)
-- Perrin, A., & Faverio, M. (2022, January 6). Three-in-ten Americans now read e-books. Pew Research Center. [https://www.pewresearch.org/short-reads/2022/01/06/three-in-ten-americans-now-read-e-books/](https://www.pewresearch.org/short-reads/2022/01/06/three-in-ten-americans-now-read-e-books/)
-- Berens, K. I., & Noorda, R. (2023, November). Gen Z and Millennials: How they use public libraries and identify through media use (Report). Portland State University / American Library Association
-
-# AI acknowledgements
-I also want to acknowledge the use of Microsoft Copilot in helping me structure my ideas more coherently and help me polish the elements of the story that could benefit from adding more clarity in terms of text, data, and general insights. 
 
 # Final Reflection
 
@@ -53,6 +44,14 @@ Initially, when I spoke to my peers about their process, they suggested finding 
 Lastly, I do not have any regrets, but if I had more time, I would have tried to learn Tableau more thoroughly to leverage the power of visualizations better. I am still a little dissatisfied with the visualization that I finally landed on for the "Emotions & What's Triggering Them?" visualizations. If I had more time, I would have really liked to explore other graph types and see other possibilities to tweak them.
 
 All in all, I personally feel good about the work that I have put forward with this project. It is authentic to me and resonates with my style and my strong sentiments around the topic that I choose. 
+  
+# References
+- Emirhan BULUT. (2024). Social Media Usage and Emotional Well-Being [Data set]. Kaggle. [https://doi.org/10.34740/KAGGLE/DSV/8460631](https://doi.org/10.34740/KAGGLE/DSV/8460631)
+- Gote, V. (2020). Reading Habit Dataset [Data set]. Kaggle. [https://www.kaggle.com/datasets/vipulgote4/reading-habit-dataset](https://www.kaggle.com/datasets/vipulgote4/reading-habit-dataset)
+- Perrin, A., & Faverio, M. (2022, January 6). Three-in-ten Americans now read e-books. Pew Research Center. [https://www.pewresearch.org/short-reads/2022/01/06/three-in-ten-americans-now-read-e-books/](https://www.pewresearch.org/short-reads/2022/01/06/three-in-ten-americans-now-read-e-books/)
+- Berens, K. I., & Noorda, R. (2023, November). Gen Z and Millennials: How they use public libraries and identify through media use (Report). Portland State University / American Library Association
 
+# AI acknowledgements
+I also want to acknowledge the use of Microsoft Copilot in helping me structure my ideas more coherently and help me polish the elements of the story that could benefit from adding more clarity in terms of text, data, and general insights. 
 
 
