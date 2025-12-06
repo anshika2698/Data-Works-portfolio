@@ -26,10 +26,15 @@ Issues like it was hard to follow and interpret, too much eye movement, and not 
 Lastly, with my pie chart, there were minor suggestions like having the labelling on the pie would make it easier to follow, which seemed valid and easy to do, and I incorporated that as well. 
 
 **Call To Action:** <br>
-I struggled with the most, I was conflicted on whether to 
+I struggled with the call to action the most for mainly two reasons. Firstly, my data, while it had tangible information in various columns, was just hard to extract just the right bits that would fit in my story correctly, and that would eventually support a good call to action. Secondly, as a ripple effect of its previous problem, I had too many directions that could take this, and finding the one that sat right with me personally and did justice to the story was tricky.
 
-Text here!
+Here, copiolet came in handy to brainstorm ideas and give me more directions. Suggesting "People should read more" seemed too broad, vague, and a lackluster call to action. That's where I formed idea to leverage the reading medium data and focus on the calm focus and instant hits trajectory. Where I appealed towards focusing on reducing the friction between reading and the quick usage of reading materials to make it the "easiest next option" instead of the hardest. 
 
+# Small Additional changes
+- The "My Data" section had the time I spent on social media in minutes, which seemed less intuitive to people, so converting it into days made a difference, as that seemed more digestible and easy to estimate, and created a sense of urgency.
+- To make my call to action more tangible and valid I introduced an additional "How do we lower this friction?" section and suggested ways that can help in increasing reading and less time on social media, which made people think it is not just an idea but something that can be implemented easily in their day-to-day lives.
+- Added a reference section on shorthand
+  
 ## References
 - Emirhan BULUT. (2024). Social Media Usage and Emotional Well-Being [Data set]. Kaggle. [https://doi.org/10.34740/KAGGLE/DSV/8460631](https://doi.org/10.34740/KAGGLE/DSV/8460631)
 - Gote, V. (2020). Reading Habit Dataset [Data set]. Kaggle. [https://www.kaggle.com/datasets/vipulgote4/reading-habit-dataset](https://www.kaggle.com/datasets/vipulgote4/reading-habit-dataset)
