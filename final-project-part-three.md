@@ -46,4 +46,13 @@ I also want to acknowledge the use of Microsoft Copilot in helping me structure 
 
 # Final Reflection
 
+What excited me the most about this topic was to see if my intuition about the social media usage pattern was right. What that means is I was really interested in seeing how people my age are dealing with social media, are the patterns similar to mine? Using medians was very intentional and tactical for me. It clearly showed on what side of the spectrum people were, and where "I" was. To answer my question, I believe I was right in looking at the place. Establishing a correlation is a technical detail that I did not go into intentionally because the data was simply not enough, but it did give a faint idea about how the environment around us is getting just keep an eye out for these changes that creep into our lifestyle without us noticing. 
+
+Initially, when I spoke to my peers about their process, they suggested finding good data first, then building your story around it. It seemed clever and for a bit a thought I should have done that, but Iam glad that I did not. I would not have put in this much effort into my project if it weren't a topic close to me. Even during the final presentations, I could see the difference when people chose a topic close to their heart and how beautifully everything came around it. 
+
+Lastly, I do not have any regrets, but if I had more time, I would have tried to learn Tableau more thoroughly to leverage the power of visualizations better. I am still a little dissatisfied with the visualization that I finally landed on for the "Emotions & What's Triggering Them?" visualizations. If I had more time, I would have really liked to explore other graph types and see other possibilities to tweak them.
+
+All in all, I personally feel good about the work that I have put forward with this project. It is authentic to me and resonates with my style and my strong sentiments around the topic that I choose. 
+
+
 
