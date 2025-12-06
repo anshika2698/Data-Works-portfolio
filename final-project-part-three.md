@@ -5,9 +5,9 @@ Shorthand Story: [From Novels to Nine-Second Reels: The Attention Swap We Didnâ€
 
 # The Audience
 
-My target audience was anyone within the age group 25-30. Additionally, I used the data from the 30-35 age group to draw insights and inferences. 
+> My target audience was anyone within the age group 25-30. Additionally, I used the data from the 30-35 age group to draw insights and inferences. The main reason to choose this age group was that I fall into this age group. I wanted to see if I am showing anomalous behavior or if this is the new normal and common trend in people my age. 
 
-
+> Another implicit assumption that I made with the data that I had was that everyone was literate enough to read and had access to the internet and social media platforms, so much so that they were part of their lifestyle. 
 
 # Changes and Design Decisions made since Part II
 
