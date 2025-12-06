@@ -19,10 +19,14 @@ The moodboard helped, and from the start, I knew I wanted bright colors and an e
 There were a few background images that resonated well with the content of that particular page, but did not match the theme of the website overall. So I had to replace them. Being too committed to a background image was not a good strategy, and being flexible in that sense helped me have a better overall theme and design for the website. The contrast was another issue. Some images were too bright and high contrast, which made the text placed on top of them way too overwhelming. Another decision I made was to use mellow shades of yellow and off white for the website. I did, however, sprinkle a few pastel colors here and there throughout the website. Finally, these strategies worked much better and aligned with my vision. 
 
 **Visualizations:** <br>
-Part II set me up quite well in terms of visualizations. Most of my visualizations stayed the same and turned out pretty good and feasible when I tried to implement them on Tableau. There were two visualizations that 
+Part II set me up quite well in terms of visualizations. Most of my visualizations stayed the same and turned out pretty good and feasible when I tried to implement them on Tableau. There was one visualization that I knew was tricky to keep simple, as well as showcase all the info that I wanted that visualization to show: the emotion trigger visualization. In part II, I suggested visualizing it using scatter plots. Which seemed less intuitive when I finally implemented it using Tableau. So I switched to using a bubble graph and was quite content with what I came up with. Restrospectively, I think it was because it was so much better than the scatter plot and made more sense to me. Unfortunately, it wasn't the most obvious one for the users.
+
+Issues like it was hard to follow and interpret, too much eye movement, and not intuitive at first glance were reported by the users. It being a key component of the story, I finally decided to settle for the tabular bar chart. Using that, decluttered the visualization itself. It also made it easy to follow compared to the previous one. I made sure I used bar colors that were consistent with the color of the app logos so that it is easy to form that mental connection.
+
+Lastly, with my pie chart, there were minor suggestions like having the labelling on the pie would make it easier to follow, which seemed valid and easy to do, and I incorporated that as well. 
 
 **Call To Action:** <br>
-
+I struggled with the most, I was conflicted on whether to 
 
 Text here!
 
